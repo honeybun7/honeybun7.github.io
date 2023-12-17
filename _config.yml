@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vedankt Talasila # the main title
+title: honeybun # the main title
 
-tagline: Personal Blog and Site # it will display as the sub-title
+tagline: personal domain # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   7777777
