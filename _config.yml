@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://static.wikia.nocookie.net/shipping/images/4/4a/Hori_and_Miyamura.jpg/revision/latest/scale-to-width-down/1000?cb=20210410231732
+avatar: https://static.wikia.nocookie.net/shipping/images/4/4a/Hori_and_Miyamura.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
