@@ -1,6 +1,6 @@
 ---
 title: First Post
-date: <%= Time.now.strftime('%Y-%m-%d %H:%M:%S %z') %>
+date: 2023-12-18 10:33:22 +/-0005
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [fun]     # TAG names should always be lowercase
 ---
